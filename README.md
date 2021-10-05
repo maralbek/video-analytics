@@ -6,7 +6,7 @@ The Video Analytics Project is a repository with the all the code (except code w
 
 This project is being developed by UBDC in partnership with Glasgow City Council.
 
-The following directories must be created:
+The following directories must be created alongside:
 
 | Directory | Description |
 |-----------|-------------|
