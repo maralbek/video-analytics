@@ -1,0 +1,6 @@
+data/
+get-video.sh
+output_folder/video.db
+__pycache__/
+models/widerperson/1/variables/*
+*.log
