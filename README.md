@@ -12,17 +12,17 @@ In this README file, you'll find comprehensive details about the project, includ
 
 - **Object Detection**: Utilizing advanced object detection algorithms to detect images on individual frame
 
-![detection](/images/detection.png)
+![detection](/detection.png)
 
  
 - **Object Tracking**: Utilizing tracking algorithms to track the object through consecutive frames
 
-![tracking](/images/tracking.gif)
+![tracking](/tracking.gif)
 
   
 - **Automated Counting Algorithm**: Utilizing virtual line passing to count the objects passing in both directions
 
-![counting](/images/counting.gif)
+![counting](/counting.gif)
 
 
 Feel free to navigate through the instructions to gain a deeper understanding of our project. 
